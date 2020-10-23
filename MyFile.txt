@@ -1,1 +1,1 @@
-This is another update to my updated file. Git Extensions. Works
+This is another update to my updated file. Git Extensions. Works. Command line
